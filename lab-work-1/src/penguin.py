@@ -1,0 +1,5 @@
+print(r"     _~_       _~_       _~_    ")
+print(r"    (o o)     (o o)     (o o)   ")
+print(r"   /  V  \   /  V  \   /  V  \  ")
+print(r"  /(  _  )\ /(  _  )\ /(  _  )\ ")
+print(r"    ^^ ^^     ^^ ^^     ^^ ^^   ")
